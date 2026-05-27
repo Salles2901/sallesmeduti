@@ -22,7 +22,7 @@ export function renderHome(capitulos) {
     </div>
     <div class="chapter-grid">${tiles}</div>
     <div class="disclaimer">
-      <strong>Aviso clínico.</strong> Conteúdo baseado no <em>Guia Prático de Plantão – SallesMED>  Material para profissionais de saúde — protocolos podem mudar e a decisão final de dose/conduta é do médico assistente, considerando bula e contexto clínico.
+      <strong>Aviso clínico.</strong> Conteúdo baseado no <em>Guia Prático de Plantão – SallesMED - Material para profissionais de saúde — protocolos podem mudar e a decisão final de dose/conduta é do médico assistente, considerando bula e contexto clínico.
     </div>
   `;
 }
