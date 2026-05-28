@@ -1,0 +1,6 @@
+{
+  "name": "SallesMED PRO",
+  "description": "Plataforma avançada SallesMED PRO de suporte à decisão clínica em medicina intensiva, emergências e UTI. Calculadoras de infusões, drogas vasoativas, escores clínicos e diretrizes práticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
